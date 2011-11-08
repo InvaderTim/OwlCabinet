@@ -6,3 +6,50 @@ Served asset /rails.png - 200 OK (5ms)
 
 Started GET "/assets/rails.png" for 127.0.0.1 at Wed Nov 09 10:01:33 +1300 2011
 Served asset /rails.png - 200 OK (1ms)
+
+
+Started GET "/" for 127.0.0.1 at Wed Nov 09 10:52:36 +1300 2011
+
+PGError (FATAL:  database "vetcalc_development" does not exist
+):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Wed Nov 09 10:53:35 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (1.4ms)
+Compiled application.css  (1ms)  (pid 3651)
+Compiled home.css  (2ms)  (pid 3651)
+Compiled application.js  (4ms)  (pid 3651)
+Compiled jquery.js  (55ms)  (pid 3651)
+Compiled jquery_ujs.js  (2ms)  (pid 3651)
+Compiled home.js  (117ms)  (pid 3651)
+Completed 200 OK in 266ms (Views: 265.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Wed Nov 09 10:53:35 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Wed Nov 09 10:53:35 +1300 2011
+Served asset /home.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Wed Nov 09 10:53:35 +1300 2011
+Served asset /jquery.js - 200 OK (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Wed Nov 09 10:53:35 +1300 2011
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Wed Nov 09 10:53:36 +1300 2011
+Served asset /home.js - 200 OK (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Wed Nov 09 10:53:36 +1300 2011
+Served asset /application.js - 200 OK (0ms)
