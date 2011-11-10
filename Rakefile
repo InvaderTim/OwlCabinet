@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-VetCalc::Application.load_tasks
+OwlCabinet::Application.load_tasks
