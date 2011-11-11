@@ -154,3 +154,369 @@ Served asset /home.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at Fri Nov 11 00:09:16 +1300 2011
 Served asset /application.js - 304 Not Modified (0ms)
+  [1m[36m (67.7ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying(255) NOT NULL) [0m
+  [1m[35m (0.2ms)[0m  SHOW search_path
+  [1m[36m (41.7ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'schema_migrations'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35m (22.3ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.3ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (62.2ms)[0m  [1mCREATE TABLE "users" ("id" serial primary key, "username" character varying(255), "password" character varying(255), "email" character varying(255), "created_at" timestamp, "updated_at" timestamp) [0m
+  [1m[35m (13.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20111111111905')
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.2ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.1ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:14 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.5ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:32 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.2ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:33 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:34 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.3ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:35 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.1ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:35 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:35 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.2ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:36 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:42 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (2.9ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:43 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.5ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:43 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.1ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:43 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.8ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:44 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:44 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:44 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.2ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:44 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:44 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.2ms)
+Compiled application.css  (17ms)  (pid 47909)
+Compiled users.css  (1ms)  (pid 47909)
+Compiled application.js  (5ms)  (pid 47909)
+Compiled users.js  (143ms)  (pid 47909)
+Completed 200 OK in 313ms (Views: 312.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+Served asset /home.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+Served asset /users.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+Served asset /users.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+Served asset /home.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 00:27:49 +1300 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:27:54 +1300 2011
+  Processing by UsersController#index as HTML
+Completed 500 Internal Server Error in 1ms
+
+NameError (uninitialized constant UsersController::Users):
+  app/controllers/users_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (3.2ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:29:53 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 61ms (Views: 57.9ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 00:29:54 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 00:29:54 +1300 2011
+Served asset /home.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 00:29:54 +1300 2011
+Served asset /users.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 00:29:54 +1300 2011
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 00:29:54 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 00:29:54 +1300 2011
+Served asset /home.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 00:29:54 +1300 2011
+Served asset /users.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 00:29:54 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.1ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 13ms (Views: 9.9ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 00:30:42 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
