@@ -2703,3 +2703,3953 @@ Served asset /users.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:08:51 +1300 2011
 Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Nov 12 17:36:23 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 131ms (Views: 130.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:36:26 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:36:26 +1300 2011
+Served asset /home.css - 304 Not Modified (55ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:36:26 +1300 2011
+Served asset /users.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:36:26 +1300 2011
+Served asset /jquery.js - 304 Not Modified (18ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:36:26 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:36:26 +1300 2011
+Served asset /home.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:36:26 +1300 2011
+Served asset /users.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:36:26 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:45 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:38:56 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:04 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:39:05 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 30ms (Views: 27.7ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:04 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/2" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mUser Load (0.5ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", "2"]]
+Rendered users/show.html.erb within layouts/application (41.4ms)
+Completed 200 OK in 53ms (Views: 49.1ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:07 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/2/edit" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+  Processing by UsersController#edit as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", "2"]]
+Rendered users/_form.html.erb (5.7ms)
+Rendered users/edit.html.erb within layouts/application (53.4ms)
+Completed 200 OK in 64ms (Views: 61.0ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:42:09 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 15ms (Views: 11.8ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 17:52:44 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 54ms (Views: 51.3ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+Served asset /jquery.js - 200 OK (19ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+Served asset /home.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 18:48:29 +1300 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 18:59:01 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 16ms (Views: 12.9ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 18:59:02 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 18:59:02 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 18:59:02 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 18:59:02 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 18:59:02 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 18:59:02 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 18:59:02 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 18:59:02 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 15ms (Views: 11.9ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 19:00:04 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 54ms (Views: 51.0ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 19:02:41 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Nov 12 23:23:51 +1300 2011
+  Processing by UsersController#new as HTML
+Rendered users/_form.html.erb (6.4ms)
+Rendered users/new.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 15ms (Views: 13.6ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 23:23:51 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 23:23:51 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 23:23:51 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 23:23:51 +1300 2011
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 23:23:51 +1300 2011
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 23:23:51 +1300 2011
+Served asset /home.js - 200 OK (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 23:23:52 +1300 2011
+Served asset /users.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 23:23:52 +1300 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Nov 12 23:24:11 +1300 2011
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Create User", "authenticity_token"=>"zmfP1pWyvoa50QL26BWPxgbI262zN/Ru5VK5r3fZtpY=", "utf8"=>"\342\234\223", "user"=>{"username"=>"Loves", "password"=>"[FILTERED]", "email"=>"loves@owlcabi.net"}}
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (47.2ms)[0m  INSERT INTO "users" ("created_at", "email", "password", "updated_at", "username") VALUES ($1, $2, $3, $4, $5) RETURNING "id"  [["created_at", Sat, 12 Nov 2011 10:24:11 UTC +00:00], ["email", "loves@owlcabi.net"], ["password", "loves"], ["updated_at", Sat, 12 Nov 2011 10:24:11 UTC +00:00], ["username", "Loves"]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+Completed 500 Internal Server Error in 55ms
+
+NameError (uninitialized constant UsersController::StatsMix):
+  app/controllers/users_controller.rb:25:in `create'
+  app/controllers/users_controller.rb:23:in `create'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.3ms)
+
+
+Started GET "/users/" for 127.0.0.1 at Sat Nov 12 23:25:19 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (46.6ms)
+Completed 200 OK in 57ms (Views: 54.3ms | ActiveRecord: 1.7ms)
+
+
+Started DELETE "/users/3" for 127.0.0.1 at Sat Nov 12 23:25:23 +1300 2011
+  Processing by UsersController#destroy as HTML
+  Parameters: {"authenticity_token"=>"zmfP1pWyvoa50QL26BWPxgbI262zN/Ru5VK5r3fZtpY=", "id"=>"3"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1[0m  [["id", "3"]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.5ms)[0m  [1mDELETE FROM "users" WHERE "users"."id" = $1[0m  [["id", 3]]
+  [1m[35m (1.0ms)[0m  COMMIT
+Redirected to http://localhost:5000/users
+Completed 302 Found in 8ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 23:25:23 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 15ms (Views: 12.2ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Nov 12 23:25:25 +1300 2011
+  Processing by UsersController#new as HTML
+Rendered users/_form.html.erb (6.1ms)
+Rendered users/new.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 15ms (Views: 13.2ms | ActiveRecord: 1.3ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Nov 12 23:25:30 +1300 2011
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Create User", "authenticity_token"=>"zmfP1pWyvoa50QL26BWPxgbI262zN/Ru5VK5r3fZtpY=", "utf8"=>"\342\234\223", "user"=>{"username"=>"l", "password"=>"[FILTERED]", "email"=>"l"}}
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "users" ("created_at", "email", "password", "updated_at", "username") VALUES ($1, $2, $3, $4, $5) RETURNING "id"[0m  [["created_at", Sat, 12 Nov 2011 10:25:30 UTC +00:00], ["email", "l"], ["password", "loves"], ["updated_at", Sat, 12 Nov 2011 10:25:30 UTC +00:00], ["username", "l"]]
+  [1m[35m (0.4ms)[0m  COMMIT
+Completed 500 Internal Server Error in 7ms
+
+NameError (uninitialized constant UsersController::StatsMix):
+  app/controllers/users_controller.rb:25:in `create'
+  app/controllers/users_controller.rb:23:in `create'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.7ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (42.0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 15ms (Views: 12.6ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:41 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started DELETE "/users/4" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+  Processing by UsersController#destroy as HTML
+  Parameters: {"authenticity_token"=>"zmfP1pWyvoa50QL26BWPxgbI262zN/Ru5VK5r3fZtpY=", "id"=>"4"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" WHERE "users"."id" = $1 LIMIT 1  [["id", "4"]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.3ms)[0m  DELETE FROM "users" WHERE "users"."id" = $1  [["id", 4]]
+  [1m[36m (6.1ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:5000/users
+Completed 302 Found in 14ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 16ms (Views: 12.6ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Nov 12 23:27:54 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 13:56:34 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 47ms (Views: 44.3ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 13:56:35 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 13:56:35 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 13:56:35 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 13:56:35 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 13:56:35 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 13:56:35 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 13:56:35 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 13:56:35 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 15ms (Views: 11.9ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:07 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 15ms (Views: 11.9ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 13:57:16 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 15ms (Views: 11.9ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 13:58:42 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:05:28 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 15ms (Views: 11.9ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:05:28 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:05:28 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:05:29 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:05:29 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:05:29 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:05:29 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:05:29 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:05:29 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 14ms (Views: 11.4ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:06:33 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 15ms (Views: 12.2ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:12 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 14ms (Views: 11.4ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:07:37 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (142.0ms)[0m  [1mCREATE TABLE "services" ("id" serial primary key, "name" character varying(255), "user_image" character varying(255), "created_at" timestamp, "updated_at" timestamp) [0m
+  [1m[35m (0.6ms)[0m  ALTER TABLE "users" ADD COLUMN "references" service
+PGError: ERROR:  type "service" does not exist
+LINE 1: ALTER TABLE "users" ADD COLUMN "references" service
+                                                    ^
+: ALTER TABLE "users" ADD COLUMN "references" service
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 15ms (Views: 11.9ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:11:25 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+  [1m[36m (12.0ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (17.7ms)[0m  [1mCREATE TABLE "services" ("id" serial primary key, "name" character varying(255), "user_image" character varying(255), "created_at" timestamp, "updated_at" timestamp) [0m
+  [1m[35m (4.9ms)[0m  ALTER TABLE "users" ADD COLUMN "references" integer
+  [1m[36m (0.1ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.2ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.6ms)[0m  [1mCREATE INDEX "index_users_on_service_id" ON "users" ("service_id")[0m
+PGError: ERROR:  column "service_id" does not exist
+: CREATE  INDEX "index_users_on_service_id" ON "users" ("service_id")
+  [1m[35m (0.1ms)[0m  ROLLBACK
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 15ms (Views: 11.9ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:12:47 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 15ms (Views: 12.2ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:02 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (13.2ms)[0m  [1mCREATE TABLE "services" ("id" serial primary key, "name" character varying(255), "user_image" character varying(255), "created_at" timestamp, "updated_at" timestamp) [0m
+  [1m[35m (0.3ms)[0m  ALTER TABLE "users" ADD COLUMN "service_id" integer
+  [1m[36m (0.1ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.2ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.8ms)[0m  [1mCREATE INDEX "index_users_on_service_id" ON "users" ("service_id")[0m
+  [1m[35m (18.8ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20111113005634')
+  [1m[36m (0.7ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.2ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.0ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.7ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35mColumns for index index_users_on_service_id on users (0.2ms)[0m   SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16399
+ AND a.attnum IN (7)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[35mUser Load (0.3ms)[0m  SELECT "users".* FROM "users" 
+Rendered users/index.html.erb within layouts/application (4.7ms)
+Completed 200 OK in 15ms (Views: 11.8ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:13:06 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+  Processing by UsersController#index as HTML
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" [0m
+Rendered users/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 15ms (Views: 12.6ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 14:47:39 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:48:22 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:48:53 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:50:10 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 14:50:10 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 15:36:21 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 15:37:54 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 15:52:19 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 15:53:34 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 16:05:12 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 16:06:08 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 16:07:08 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 16:07:26 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 16:12:52 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/users" for 127.0.0.1 at Sun Nov 13 16:13:00 +1300 2011
+
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:19:55 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (26.2ms)
+Completed 500 Internal Server Error in 31ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:22:57 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.3ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (34.8ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:28:36 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:29:09 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.3ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:29:48 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (41.7ms)
+Completed 500 Internal Server Error in 46ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:30:47 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:31:00 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.7ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:31:05 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 47ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:31:26 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.3ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:31:43 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:32:01 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.7ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:33:00 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.1ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:33:35 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (40.7ms)
+Completed 500 Internal Server Error in 45ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:34:59 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.5ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:37:39 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.6ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:39:01 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (43.0ms)
+Completed 500 Internal Server Error in 47ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:39:16 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.6ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:40:01 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.5ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+  [1m[36m (0.3ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (15.4ms)[0m  [1mALTER TABLE "services" RENAME COLUMN "user_image" TO "image_ref"[0m
+  [1m[35m (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20111113033739')
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.1ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.1ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.7ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35mColumns for index index_users_on_service_id on users (0.3ms)[0m   SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16399
+ AND a.attnum IN (7)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:40:10 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:40:41 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.3ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:41:16 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:43:10 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.9ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:43:31 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:43:58 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (39.0ms)
+Completed 500 Internal Server Error in 43ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:44:01 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.6ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:44:02 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.6ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:44:18 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.2ms)
+Completed 500 Internal Server Error in 8ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:44:30 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.3ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:44:55 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.4ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:46:01 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.5ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 16:48:49 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.6ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 17:30:09 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (4.5ms)
+Completed 500 Internal Server Error in 33ms
+
+ActionView::Template::Error (No route matches {:controller=>"users"}):
+    16: </p>
+    17: <br/><br/>
+    18: <p>
+    19: 	Webpage currently in development: <%= link_to 'Users', User %>
+    20: </p>
+  app/views/home/index.html.erb:19:in `_app_views_home_index_html_erb___1143769979_2220547300'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Nov 13 17:43:13 +1300 2011
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (0.5ms)
+Compiled application.css  (14ms)  (pid 50665)
+Compiled services.css  (0ms)  (pid 50665)
+Compiled services.css  (17ms)  (pid 50665)
+Compiled application.js  (5ms)  (pid 50665)
+Compiled services.js  (224ms)  (pid 50665)
+Compiled services.js.js  (0ms)  (pid 50665)
+Completed 200 OK in 332ms (Views: 331.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /services.css - 200 OK (2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /services.js - 200 OK (1ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /services.js.js - 200 OK (1ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:14 +1300 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at Sun Nov 13 17:43:17 +1300 2011
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.4ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 17:43:17 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 17:43:17 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 17:43:17 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:17 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:17 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:17 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 17:43:17 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (0.1ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 8.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 17:44:54 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.2ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 11ms (Views: 8.9ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:11 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (0.1ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 49ms (Views: 47.6ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:19 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.2ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 8.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sun Nov 13 17:46:43 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (0.2ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 24ms (Views: 22.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Mon Nov 14 09:22:31 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.1ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 24ms (Views: 22.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Mon Nov 14 14:48:23 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387379" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387438" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387442" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387446" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387449" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387455" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387459" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387464" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (56ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387468" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387490" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387471" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387478" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387482" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387486" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387494" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387524" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387529" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387540" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387532" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387537" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387546" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387550" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387554" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387557" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387561" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387565" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387568" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387572" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387575" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387578" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387584" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387587" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387591" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387594" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387598" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387602" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387605" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387609" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387612" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387616" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387623" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387626" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387630" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387633" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387636" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387649" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387652" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387656" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387659" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387664" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387685" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387689" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387692" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387696" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387699" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387715" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387719" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387722" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387725" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387729" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387738" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387741" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387745" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387748" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387752" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387759" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387763" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387766" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387770" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387773" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387785" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387789" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387792" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387796" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387799" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387857" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387860" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387863" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387867" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387870" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387881" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387885" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387888" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387891" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387895" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387902" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387905" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387909" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387912" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387916" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387919" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387923" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387926" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387930" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387933" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387937" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387941" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387944" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387948" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387951" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387960" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387963" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387966" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387970" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387973" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237387984" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237387988" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387991" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237387995" for 127.0.0.1 at Mon Nov 14 15:23:07 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237387998" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237388007" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237388010" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237388013" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237388017" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237388020" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237388025" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237388029" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237388032" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237388035" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237388039" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237388046" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237388049" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237388052" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237388056" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237388059" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1&livereload=1321237388073" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/home.css?body=1&livereload=1321237388076" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /home.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237388079" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/assets/users.css?body=1&livereload=1321237388087" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /users.css - 200 OK (0ms)
+
+
+Started GET "/assets/services.css?body=1&livereload=1321237388083" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 200 OK (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (0.1ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 57ms (Views: 55.2ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Mon Nov 14 15:23:08 +1300 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Mon Nov 14 15:23:09 +1300 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2011-11-25 22:32:30 +1300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (9.5ms)
+Cache for Asset (application.js) is stale
+/Library/Ruby/Gems/1.8/gems/jquery-rails-1.0.16/vendor/assets/javascripts/jquery.js isn't in paths: /Users/InvaderTim/Projects/Ruby/OwlCabinet/app/assets/images, /Users/InvaderTim/Projects/Ruby/OwlCabinet/app/assets/javascripts, /Users/InvaderTim/Projects/Ruby/OwlCabinet/app/assets/stylesheets, /Users/InvaderTim/Projects/Ruby/OwlCabinet/vendor/assets/stylesheets, /Users/InvaderTim/.rvm/gems/ruby-1.9.2-p290/gems/jquery-rails-1.0.18/vendor/assets/javascripts
+Compiled application.js  (11ms)  (pid 91277)
+Compiled jquery.js  (20ms)  (pid 91277)
+Compiled jquery_ujs.js  (0ms)  (pid 91277)
+Completed 200 OK in 210ms (Views: 209.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /home.css - 304 Not Modified (24ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /services.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /users.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /jquery.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /jquery_ujs.js - 200 OK (3ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /home.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /services.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /services.js.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /users.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:32 +1300
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (18.3ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 11.1ms | ActiveRecord: 18.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:32:35 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.2ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:42 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (0.2ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:34:57 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.2ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:14 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (0.2ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:32 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.1ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:37:45 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:38:05 +1300
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (0.2ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:06 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.2ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:10 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+  Processing by ServicesController#index as HTML
+  [1m[36mService Load (0.2ms)[0m  [1mSELECT "services".* FROM "services" [0m
+Rendered services/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:38:20 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+  [1m[36m (0.3ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (5113.0ms)[0m  DROP DATABASE IF EXISTS "OwlCabinet_dev"
+PGError: ERROR:  database "OwlCabinet_dev" is being accessed by other users
+DETAIL:  There are 2 other session(s) using the database.
+: DROP DATABASE IF EXISTS "OwlCabinet_dev"
+  [1m[36m (2.4ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[35m (0.2ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.2ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (3.4ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.6ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35mColumns for index index_users_on_service_id on users (0.3ms)[0m   SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16399
+ AND a.attnum IN (7)
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+
+
+Started GET "/services" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+  Processing by ServicesController#index as HTML
+  [1m[35mService Load (0.2ms)[0m  SELECT "services".* FROM "services" 
+Rendered services/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /home.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /services.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /users.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /home.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /services.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /services.js.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /users.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-25 22:42:22 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+  [1m[36m (0.3ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (5037.5ms)[0m  DROP DATABASE IF EXISTS "OwlCabinet_dev"
+PGError: ERROR:  database "OwlCabinet_dev" is being accessed by other users
+DETAIL:  There are 1 other session(s) using the database.
+: DROP DATABASE IF EXISTS "OwlCabinet_dev"
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[35m (0.2ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.2ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.1ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.7ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35mColumns for index index_users_on_service_id on users (0.3ms)[0m   SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16399
+ AND a.attnum IN (7)
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[36m (0.3ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (5040.4ms)[0m  DROP DATABASE IF EXISTS "OwlCabinet_dev"
+PGError: ERROR:  database "OwlCabinet_dev" is being accessed by other users
+DETAIL:  There are 1 other session(s) using the database.
+: DROP DATABASE IF EXISTS "OwlCabinet_dev"
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[35m (0.2ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.2ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.1ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.7ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35mColumns for index index_users_on_service_id on users (0.3ms)[0m   SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16399
+ AND a.attnum IN (7)
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[36m (0.2ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (5045.1ms)[0m  DROP DATABASE IF EXISTS "OwlCabinet_dev"
+PGError: ERROR:  database "OwlCabinet_dev" is being accessed by other users
+DETAIL:  There are 1 other session(s) using the database.
+: DROP DATABASE IF EXISTS "OwlCabinet_dev"
+  [1m[36m (0.3ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[35m (0.2ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.2ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.1ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.7ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35mColumns for index index_users_on_service_id on users (0.3ms)[0m   SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16399
+ AND a.attnum IN (7)
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[36m (0.3ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (5042.5ms)[0m  DROP DATABASE IF EXISTS "OwlCabinet_dev"
+PGError: ERROR:  database "OwlCabinet_dev" is being accessed by other users
+DETAIL:  There are 1 other session(s) using the database.
+: DROP DATABASE IF EXISTS "OwlCabinet_dev"
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+Migrating to CreateServices (20111113005634)
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[35m (0.2ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.1ms)[0m  [1mSHOW search_path[0m
+  [1m[35m (1.0ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36m (0.7ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35mColumns for index index_users_on_service_id on users (0.3ms)[0m   SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16399
+ AND a.attnum IN (7)
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[36m (0.3ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (0.2ms)[0m  DROP DATABASE IF EXISTS "OwlCabinet_dev"
+  [1m[36m (0.2ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (5043.6ms)[0m  CREATE DATABASE "OwlCabinet_test" ENCODING = 'utf8'
+PGError: ERROR:  source database "template1" is being accessed by other users
+DETAIL:  There are 1 other session(s) using the database.
+: CREATE DATABASE "OwlCabinet_test" ENCODING = 'utf8'
+  [1m[36m (0.1ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (5041.0ms)[0m  CREATE DATABASE "OwlCabinet_dev" ENCODING = 'utf8'
+PGError: ERROR:  source database "template1" is being accessed by other users
+DETAIL:  There are 1 other session(s) using the database.
+: CREATE DATABASE "OwlCabinet_dev" ENCODING = 'utf8'
+  [1m[36m (33.3ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying(255) NOT NULL) [0m
+  [1m[35m (1.6ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'schema_migrations'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('public') )
+ ORDER BY i.relname
+  [1m[36m (7.1ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.2ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+Migrating to CreateUsers (20111111111905)
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (3.8ms)[0m  CREATE TABLE "users" ("id" serial primary key, "username" character varying(255), "password" character varying(255), "email" character varying(255), "created_at" timestamp, "updated_at" timestamp) 
+  [1m[36m (0.4ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20111111111905')[0m
+  [1m[35m (0.7ms)[0m  COMMIT
+Migrating to CreateServices (20111113005634)
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (2.8ms)[0m  CREATE TABLE "services" ("id" serial primary key, "name" character varying(255), "user_image" character varying(255), "created_at" timestamp, "updated_at" timestamp) 
+  [1m[36m (0.2ms)[0m  [1mALTER TABLE "users" ADD COLUMN "service_id" integer[0m
+  [1m[35m (0.8ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('public') )
+ ORDER BY i.relname
+  [1m[36m (0.8ms)[0m  [1mCREATE INDEX "index_users_on_service_id" ON "users" ("service_id")[0m
+  [1m[35m (10.8ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20111113005634')
+  [1m[36m (0.9ms)[0m  [1mCOMMIT[0m
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (0.3ms)[0m  [1mALTER TABLE "services" RENAME COLUMN "user_image" TO "image_ref"[0m
+  [1m[35m (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20111113033739')
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[36m (0.2ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (0.2ms)[0m  DROP DATABASE IF EXISTS "OwlCabinet_dev"
+  [1m[36m (0.1ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (320.9ms)[0m  CREATE DATABASE "OwlCabinet_test" ENCODING = 'utf8'
+  [1m[36m (0.2ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (355.3ms)[0m  CREATE DATABASE "OwlCabinet_dev" ENCODING = 'utf8'
+  [1m[36m (2.8ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying(255) NOT NULL) [0m
+  [1m[35m (0.2ms)[0m  SHOW search_path
+  [1m[36m (1.6ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'schema_migrations'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35m (1.3ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (3.3ms)[0m  [1mCREATE TABLE "users" ("id" serial primary key, "username" character varying(255), "password" character varying(255), "email" character varying(255), "created_at" timestamp, "updated_at" timestamp) [0m
+  [1m[35m (0.3ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20111111111905')
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+Migrating to CreateServices (20111113005634)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (2.7ms)[0m  [1mCREATE TABLE "services" ("id" serial primary key, "name" character varying(255), "user_image" character varying(255), "created_at" timestamp, "updated_at" timestamp) [0m
+  [1m[35m (0.3ms)[0m  ALTER TABLE "users" ADD COLUMN "service_id" integer
+  [1m[36m (0.8ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35m (0.7ms)[0m  CREATE INDEX "index_users_on_service_id" ON "users" ("service_id")
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20111113005634')[0m
+  [1m[35m (0.8ms)[0m  COMMIT
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.3ms)[0m  ALTER TABLE "services" RENAME COLUMN "user_image" TO "image_ref"
+  [1m[36m (0.1ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20111113033739')[0m
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.1ms)[0m  SHOW search_path
+  [1m[36m (1.0ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35m (0.7ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36mColumns for index index_users_on_service_id on users (0.3ms)[0m  [1m SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16478
+ AND a.attnum IN (7)
+[0m
+  [1m[35m (0.2ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.3ms)[0m  [1mSET search_path TO public[0m
+  [1m[35m (2025.1ms)[0m  DROP DATABASE IF EXISTS "OwlCabinet_dev"
+  [1m[36m (3.2ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" character varying(255) NOT NULL) [0m
+  [1m[35m (0.1ms)[0m  SHOW search_path
+  [1m[36m (1.5ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'schema_migrations'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35m (1.4ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to CreateUsers (20111111111905)
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (3.3ms)[0m  [1mCREATE TABLE "users" ("id" serial primary key, "username" character varying(255), "password" character varying(255), "email" character varying(255), "created_at" timestamp, "updated_at" timestamp) [0m
+  [1m[35m (0.4ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20111111111905')
+  [1m[36m (0.6ms)[0m  [1mCOMMIT[0m
+Migrating to CreateServices (20111113005634)
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36m (2.6ms)[0m  [1mCREATE TABLE "services" ("id" serial primary key, "name" character varying(255), "user_image" character varying(255), "created_at" timestamp, "updated_at" timestamp) [0m
+  [1m[35m (0.2ms)[0m  ALTER TABLE "users" ADD COLUMN "service_id" integer
+  [1m[36m (0.8ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35m (0.7ms)[0m  CREATE INDEX "index_users_on_service_id" ON "users" ("service_id")
+  [1m[36m (0.2ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20111113005634')[0m
+  [1m[35m (0.5ms)[0m  COMMIT
+Migrating to RenameServiceImageRef (20111113033739)
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.2ms)[0m  ALTER TABLE "services" RENAME COLUMN "user_image" TO "image_ref"
+  [1m[36m (0.1ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES ('20111113033739')[0m
+  [1m[35m (0.3ms)[0m  COMMIT
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+  [1m[35m (0.1ms)[0m  SHOW search_path
+  [1m[36m (1.0ms)[0m  [1m SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'services'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+[0m
+  [1m[35m (0.7ms)[0m   SELECT distinct i.relname, d.indisunique, d.indkey, t.oid
+ FROM pg_class t
+ INNER JOIN pg_index d ON t.oid = d.indrelid
+ INNER JOIN pg_class i ON d.indexrelid = i.oid
+ WHERE i.relkind = 'i'
+ AND d.indisprimary = 'f'
+ AND t.relname = 'users'
+ AND i.relnamespace IN (SELECT oid FROM pg_namespace WHERE nspname IN ('"$user"','public') )
+ ORDER BY i.relname
+  [1m[36mColumns for index index_users_on_service_id on users (0.3ms)[0m  [1m SELECT a.attnum, a.attname
+ FROM pg_attribute a
+ WHERE a.attrelid = 16506
+ AND a.attnum IN (7)
+[0m
+  [1m[36m (0.2ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+
+
+Started GET "/" for 127.0.0.1 at 2011-11-26 01:04:29 +1300
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 187ms (Views: 187.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /home.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/services.css?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /services.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /users.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /jquery_ujs.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /home.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/services.js?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /services.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/services.js.js?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /services.js.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /users.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2011-11-26 01:04:30 +1300
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/doc/app/" for 127.0.0.1 at 2011-11-26 01:04:35 +1300
+
+ActionController::RoutingError (No route matches [GET] "/doc/app"):
+  
+
+Rendered /Users/InvaderTim/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/doc/app/index.html" for 127.0.0.1 at 2011-11-26 01:08:43 +1300
+
+ActionController::RoutingError (No route matches [GET] "/doc/app/index.html"):
+  
+
+Rendered /Users/InvaderTim/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/doc/app/index.html" for 127.0.0.1 at 2011-11-26 01:18:23 +1300
+
+ActionController::RoutingError (No route matches [GET] "/doc/app/index.html"):
+  
+
+Rendered /Users/InvaderTim/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/doc/app/index.html" for 127.0.0.1 at 2011-11-26 01:19:25 +1300
+
+ActionController::RoutingError (No route matches [GET] "/doc/app/index.html"):
+  
+
+Rendered /Users/InvaderTim/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/doc/app/index.html" for 127.0.0.1 at 2011-11-26 01:19:52 +1300
+
+ActionController::RoutingError (No route matches [GET] "/doc/app/index.html"):
+  
+
+Rendered /Users/InvaderTim/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/doc/app/index.html" for 127.0.0.1 at 2011-11-27 16:25:31 +1300
+
+ActionController::RoutingError (No route matches [GET] "/doc/app/index.html"):
+  
+
+Rendered /Users/InvaderTim/.rvm/gems/ruby-1.9.2-p290/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (40.4ms)

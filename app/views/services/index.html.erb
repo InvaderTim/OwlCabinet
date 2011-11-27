@@ -1,0 +1,5 @@
+<h1>Available Services</h1>
+
+<%= @services.each do |service| %>
+	<%= link_to image_tag(service.image_ref) %>
+<% end %>
